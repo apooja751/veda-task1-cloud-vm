@@ -1,0 +1,1 @@
+# veda-task1-cloud-vm
